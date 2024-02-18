@@ -1,0 +1,19 @@
+D:\Github\Gripz CoD4x Degen Tool\obj\Release\net8.0-windows\Gripz CoD4x Degen Tool.csproj.AssemblyReference.cache
+D:\Github\Gripz CoD4x Degen Tool\obj\Release\net8.0-windows\Gripz_CoD4x_Degen_Tool.Form1.resources
+D:\Github\Gripz CoD4x Degen Tool\obj\Release\net8.0-windows\Gripz CoD4x Degen Tool.csproj.GenerateResource.cache
+D:\Github\Gripz CoD4x Degen Tool\obj\Release\net8.0-windows\Gripz CoD4x Degen Tool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Gripz CoD4x Degen Tool\obj\Release\net8.0-windows\Gripz CoD4x Degen Tool.AssemblyInfoInputs.cache
+D:\Github\Gripz CoD4x Degen Tool\obj\Release\net8.0-windows\Gripz CoD4x Degen Tool.AssemblyInfo.cs
+D:\Github\Gripz CoD4x Degen Tool\obj\Release\net8.0-windows\Gripz CoD4x Degen Tool.csproj.CoreCompileInputs.cache
+D:\Github\Gripz CoD4x Degen Tool\bin\Release\net8.0-windows\Gripz CoD4x Degen Tool.exe
+D:\Github\Gripz CoD4x Degen Tool\bin\Release\net8.0-windows\Gripz CoD4x Degen Tool.deps.json
+D:\Github\Gripz CoD4x Degen Tool\bin\Release\net8.0-windows\Gripz CoD4x Degen Tool.runtimeconfig.json
+D:\Github\Gripz CoD4x Degen Tool\bin\Release\net8.0-windows\Gripz CoD4x Degen Tool.dll
+D:\Github\Gripz CoD4x Degen Tool\bin\Release\net8.0-windows\Gripz CoD4x Degen Tool.pdb
+D:\Github\Gripz CoD4x Degen Tool\bin\Release\net8.0-windows\Memory.dll
+D:\Github\Gripz CoD4x Degen Tool\obj\Release\net8.0-windows\Gripz CoD4x Degen Tool.csproj.CopyComplete
+D:\Github\Gripz CoD4x Degen Tool\obj\Release\net8.0-windows\Gripz CoD4x Degen Tool.dll
+D:\Github\Gripz CoD4x Degen Tool\obj\Release\net8.0-windows\refint\Gripz CoD4x Degen Tool.dll
+D:\Github\Gripz CoD4x Degen Tool\obj\Release\net8.0-windows\Gripz CoD4x Degen Tool.pdb
+D:\Github\Gripz CoD4x Degen Tool\obj\Release\net8.0-windows\Gripz CoD4x Degen Tool.genruntimeconfig.cache
+D:\Github\Gripz CoD4x Degen Tool\obj\Release\net8.0-windows\ref\Gripz CoD4x Degen Tool.dll

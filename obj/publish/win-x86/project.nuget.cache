@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+8KbvZkvj2x0FU3N/PSk8lsKzbgPkjRXuTfu7cO+j5i+SS5F8SuvtctoUV+/jOW3XzR1nAduFXUSsEPRx2X/ug==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\Gripz CoD4x Degen Tool\\Seppuku CoD4x Degen Tool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\memory.dll.x86\\1.2.26\\memory.dll.x86.1.2.26.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.0\\microsoft.netcore.app.runtime.win-x86.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.0\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.0\\microsoft.aspnetcore.app.runtime.win-x86.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a5c6sR42eEbmKgOWOSzVuXIffQ72z0uh0a527pd0LQjIoq6qVTDDn/gFHjbQBETgqNOoVZnj9A8y5bxTKZPuYw==",
+  "success": true,
+  "projectFilePath": "D:\\Github\\Gripz CoD4x Degen Tool\\Seppuku CoD4x Degen Tool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\memory.dll.x86\\1.2.26\\memory.dll.x86.1.2.26.nupkg.sha512"
+  ],
+  "logs": []
+}
