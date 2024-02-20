@@ -134,58 +134,58 @@ namespace Gripz_CoD4x_Degen_Tool
         {
             try
             {
-                m.WriteMemory("cod4x_021.dll+443D22E", "string", nameTextbox1.Text);
-                m.WriteMemory("cod4x_021.dll+443D25C", "string", nameTextbox2.Text);
-                m.WriteMemory("cod4x_021.dll+443D28A", "string", nameTextbox3.Text);
-                m.WriteMemory("cod4x_021.dll+443D2B8", "string", nameTextbox4.Text);
-                m.WriteMemory("cod4x_021.dll+443D2E6", "string", nameTextbox5.Text);
-                m.WriteMemory("cod4x_021.dll+443D314", "string", nameTextbox6.Text);
-                m.WriteMemory("cod4x_021.dll+443D342", "string", nameTextbox7.Text);
-                m.WriteMemory("cod4x_021.dll+443D370", "string", nameTextbox8.Text);
-                m.WriteMemory("cod4x_021.dll+443D39E", "string", nameTextbox9.Text);
-                m.WriteMemory("cod4x_021.dll+443D3CC", "string", nameTextbox10.Text);
+                m.WriteMemory("cod4x_021.dll+443D22E", "string", nameTextbox1.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D25C", "string", nameTextbox2.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D28A", "string", nameTextbox3.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D2B8", "string", nameTextbox4.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D2E6", "string", nameTextbox5.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D314", "string", nameTextbox6.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D342", "string", nameTextbox7.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D370", "string", nameTextbox8.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D39E", "string", nameTextbox9.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D3CC", "string", nameTextbox10.Text + "\0");
 
-                m.WriteMemory("cod4x_021.dll+443D3FA", "string", nameTextbox11.Text);
-                m.WriteMemory("cod4x_021.dll+443D428", "string", nameTextbox12.Text);
-                m.WriteMemory("cod4x_021.dll+443D456", "string", nameTextbox13.Text);
-                m.WriteMemory("cod4x_021.dll+443D484", "string", nameTextbox14.Text);
-                m.WriteMemory("cod4x_021.dll+443D4B2", "string", nameTextbox15.Text);
-                m.WriteMemory("cod4x_021.dll+443D4E0", "string", nameTextbox16.Text);
-                m.WriteMemory("cod4x_021.dll+443D50E", "string", nameTextbox17.Text);
-                m.WriteMemory("cod4x_021.dll+443D53C", "string", nameTextbox18.Text);
-                m.WriteMemory("cod4x_021.dll+443D56A", "string", nameTextbox19.Text);
-                m.WriteMemory("cod4x_021.dll+443D598", "string", nameTextbox20.Text);
+                m.WriteMemory("cod4x_021.dll+443D3FA", "string", nameTextbox11.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D428", "string", nameTextbox12.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D456", "string", nameTextbox13.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D484", "string", nameTextbox14.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D4B2", "string", nameTextbox15.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D4E0", "string", nameTextbox16.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D50E", "string", nameTextbox17.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D53C", "string", nameTextbox18.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D56A", "string", nameTextbox19.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D598", "string", nameTextbox20.Text + "\0");
 
-                m.WriteMemory("cod4x_021.dll+443D5C6", "string", nameTextbox21.Text);
-                m.WriteMemory("cod4x_021.dll+443D5F4", "string", nameTextbox22.Text);
-                m.WriteMemory("cod4x_021.dll+443D622", "string", nameTextbox23.Text);
-                m.WriteMemory("cod4x_021.dll+443D67E", "string", nameTextbox24.Text);
-                m.WriteMemory("cod4x_021.dll+443D6AC", "string", nameTextbox25.Text);
-                m.WriteMemory("cod4x_021.dll+443D6DA", "string", nameTextbox26.Text);
-                m.WriteMemory("cod4x_021.dll+443D708", "string", nameTextbox27.Text);
-                m.WriteMemory("cod4x_021.dll+443D736", "string", nameTextbox28.Text);
-                m.WriteMemory("cod4x_021.dll+443D764", "string", nameTextbox29.Text);
-                m.WriteMemory("cod4x_021.dll+443D792", "string", nameTextbox30.Text);
+                m.WriteMemory("cod4x_021.dll+443D5C6", "string", nameTextbox21.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D5F4", "string", nameTextbox22.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D622", "string", nameTextbox23.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D67E", "string", nameTextbox24.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D6AC", "string", nameTextbox25.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D6DA", "string", nameTextbox26.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D708", "string", nameTextbox27.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D736", "string", nameTextbox28.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D764", "string", nameTextbox29.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D792", "string", nameTextbox30.Text + "\0");
 
-                m.WriteMemory("cod4x_021.dll+443D7C0", "string", nameTextbox31.Text);
-                m.WriteMemory("cod4x_021.dll+443D7EE", "string", nameTextbox32.Text);
-                m.WriteMemory("cod4x_021.dll+443D81C", "string", nameTextbox33.Text);
-                m.WriteMemory("cod4x_021.dll+443D84A", "string", nameTextbox34.Text);
-                m.WriteMemory("cod4x_021.dll+443D878", "string", nameTextbox35.Text);
-                m.WriteMemory("cod4x_021.dll+443D8A6", "string", nameTextbox36.Text);
-                m.WriteMemory("cod4x_021.dll+443D8D4", "string", nameTextbox37.Text);
-                m.WriteMemory("cod4x_021.dll+443D902", "string", nameTextbox38.Text);
-                m.WriteMemory("cod4x_021.dll+443D930", "string", nameTextbox39.Text);
-                m.WriteMemory("cod4x_021.dll+443D95E", "string", nameTextbox40.Text);
+                m.WriteMemory("cod4x_021.dll+443D7C0", "string", nameTextbox31.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D7EE", "string", nameTextbox32.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D81C", "string", nameTextbox33.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D84A", "string", nameTextbox34.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D878", "string", nameTextbox35.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D8A6", "string", nameTextbox36.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D8D4", "string", nameTextbox37.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D902", "string", nameTextbox38.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D930", "string", nameTextbox39.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D95E", "string", nameTextbox40.Text + "\0");
 
-                m.WriteMemory("cod4x_021.dll+443D98C", "string", nameTextbox41.Text);
-                m.WriteMemory("cod4x_021.dll+443D9BA", "string", nameTextbox42.Text);
-                m.WriteMemory("cod4x_021.dll+443D9E8", "string", nameTextbox43.Text);
-                m.WriteMemory("cod4x_021.dll+443DA16", "string", nameTextbox44.Text);
-                m.WriteMemory("cod4x_021.dll+443DA44", "string", nameTextbox45.Text);
-                m.WriteMemory("cod4x_021.dll+443DA72", "string", nameTextbox46.Text);
-                m.WriteMemory("cod4x_021.dll+443DAA0", "string", nameTextbox47.Text);
-                m.WriteMemory("cod4x_021.dll+443DACE", "string", nameTextbox48.Text);
+                m.WriteMemory("cod4x_021.dll+443D98C", "string", nameTextbox41.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D9BA", "string", nameTextbox42.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443D9E8", "string", nameTextbox43.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443DA16", "string", nameTextbox44.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443DA44", "string", nameTextbox45.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443DA72", "string", nameTextbox46.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443DAA0", "string", nameTextbox47.Text + "\0");
+                m.WriteMemory("cod4x_021.dll+443DACE", "string", nameTextbox48.Text + "\0");
 
 
             }

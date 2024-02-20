@@ -960,9 +960,9 @@
             label49.AutoSize = true;
             label49.Location = new Point(12, 363);
             label49.Name = "label49";
-            label49.Size = new Size(332, 15);
+            label49.Size = new Size(354, 15);
             label49.TabIndex = 100;
-            label49.Text = "Get Names then rename the onces you want thencheck spoof";
+            label49.Text = "Click getNames then rename the ones you want then check spoof\r\n";
             // 
             // label50
             // 
